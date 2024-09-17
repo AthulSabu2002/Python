@@ -6,11 +6,8 @@ class Solution:
             '[': ']',
             '(': ')'
         }
-        for c in s:
-            if c in pairs:
-                arr.append(c)
-            elif len(arr) == 0 or c != pairs[arr.pop()]:
-                return False
+        for c in pairs:
+            print(c)
         
         return len(arr) == 0
 
