@@ -1,4 +1,4 @@
-# 🐍 Python DSA and Problem-Solving Repository
+# 🐍 Python DSA and Problem-Solving
 
 Welcome to my Python Data Structures and Algorithms (DSA) repository! This collection showcases my journey through various coding challenges and algorithm implementations, focusing on enhancing problem-solving skills and understanding fundamental computer science concepts.
 
