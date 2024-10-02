@@ -13,5 +13,5 @@ def gridTraveler(m, n):
     memo[key] = gridTraveler(m - 1, n) + gridTraveler(m, n - 1)
     return memo[key]
     
-res = gridTraveler(18, 18)
+res = gridTraveler(3, 3)
 print(res)
